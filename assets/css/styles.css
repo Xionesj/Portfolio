@@ -170,7 +170,7 @@ body.dark-theme {
 
 .profile__perfil img {
   width: 75px;
-  height: 90px;
+  height: auto;
 }
 
 .profile__border {
